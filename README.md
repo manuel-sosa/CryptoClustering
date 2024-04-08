@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" src="https://github.com/manuel-sosa/CryptoClustering/crypto_image.jpg">
+  <img width="600" height="400" src="https://github.com/manuel-sosa/CryptoClustering/blob/main/crypto_image.jpg">
 </p>
 
 # :money_with_wings: Module 19 Challenge - "Clustering Crypto" 
@@ -7,9 +7,8 @@
 It is a comprehensive project focused on applying unsupervised learning techniques, specifically clustering, to analyze and predict cryptocurrency market behaviors. The challenge revolves around the hypothesis that cryptocurrencies can be grouped based on their 24-hour and 7-day price changes, using data-driven insights to uncover underlying patterns in the market.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/manuel-sosa/CryptoClustering/elbow_curve.png">
+  <img width="600" height="400" src="https://github.com/manuel-sosa/CryptoClustering/blob/main/elbow_curve.png">
 </p>
-
 
 ## :bar_chart: Objectives: 
 
@@ -25,7 +24,7 @@ It is a comprehensive project focused on applying unsupervised learning techniqu
 - Visualizations to support the analysis, including elbow plots for determining the optimal k and scatter plots to visualize the clusters.
 - A README file that summarizes the project, its objectives, methodologies, and key findings. This document should provide a clear overview of the challenge and serve as an entry point for anyone reviewing the project on GitHub.
 
-## :wrench: Skills and Tools::hammer: 
+## :hammer: :wrench: Skills and Tools:  
 - Python: For all data processing, analysis, and modeling tasks.
 - Pandas and NumPy: For data manipulation and numerical operations.
 - Matplotlib and hvPlot: For creating visualizations.
