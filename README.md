@@ -2,9 +2,9 @@
   <img width="600" height="400" src="https://github.com/manuel-sosa/CryptoClustering/blob/main/crypto_image.jpg">
 </p>
 
-# :money_with_wings: Module 19 Challenge - "Clustering Crypto" 
+# :money_with_wings: Module 19 Challenge - Clustering Crypto
 
-It is a comprehensive project focused on applying unsupervised learning techniques, specifically clustering, to analyze and predict cryptocurrency market behaviors. The challenge revolves around the hypothesis that cryptocurrencies can be grouped based on their 24-hour and 7-day price changes, using data-driven insights to uncover underlying patterns in the market.
+This is a comprehensive project focused on applying unsupervised learning techniques, specifically clustering, to analyze and predict cryptocurrency market behaviors. The challenge revolves around the hypothesis that cryptocurrencies can be **grouped based on their 24-hour and 7-day price changes**, using data-driven insights to uncover underlying patterns in the market.
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/manuel-sosa/CryptoClustering/blob/main/elbow_curve.png">
